@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Akatsuki 👋
 
-<!--
-**osaragi2/osaragi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3D Content Creator and Blender Artist focused on stylized rendering, shaders, and animation workflows.
 
-Here are some ideas to get you started:
+I enjoy creating anime-style visuals, experimenting with NPR rendering techniques, and building creative tools for artists.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Focus
+
+- Researching NPR (Non-Photorealistic Rendering) workflows in Blender
+- Learning advanced shader techniques and motion design
+- Exploring automation tools with Python
+- Creating fanart animations and cinematic video content
+- Studying Chinese anime-style 3D games and rendering pipelines
+
+---
+
+## 💼 Work & Roles
+
+- Blender & Motion Graphics Creator
+- Content Creator focused on 3D visuals
+- Community contributor for Blender and rendering discussions
+- Sharing shader workflows, notes, and technical experiments
